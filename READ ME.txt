@@ -1,0 +1,3 @@
+Make sure that data.csv and data_2020.csv are in the same folder as the jupyter notebook.
+
+Just run all the cells in order and everything should (hopefully) work.
